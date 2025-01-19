@@ -48,3 +48,5 @@ Follow these steps to set up and run the app on your local machine:
 
 ✨ Contributing
 Contributions are welcome! If you'd like to improve this project, please fork the repository and submit a pull request. 🙌
+
+[![](https://visitcount.itsvg.in/api?id=huseyincenik.react_native/&label=Visiter%20Count&color=10&icon=9&pretty=false)](https://visitcount.itsvg.in)
